@@ -14,6 +14,6 @@ To use the password checker, simply run the `PasswordChecker.py` script and inpu
 ## Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/Sorab99/password-checker.git
+git clone https://github.com/Sorab99/MyPasswordChecker.git
 cd password-checker
 python PasswordChecker.py
